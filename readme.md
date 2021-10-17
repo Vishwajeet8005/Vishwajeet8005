@@ -1,4 +1,5 @@
 
+<img src="https://cdn.discordapp.com/attachments/899181942984048711/899181973409529906/Im_vishwajeet_1.png"/>
 
 - 🔭 I’m currently working on **VORTEX**
 
@@ -16,7 +17,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://cdn.discordapp.com/attachments/899181942984048711/899181973409529906/Im_vishwajeet_1.png"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeet8005&show_icons=true&locale=en&layout=tokyonight" alt="vishwajeet8005" /></p>
 
