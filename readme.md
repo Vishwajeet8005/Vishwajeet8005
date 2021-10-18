@@ -1,19 +1,19 @@
 
 <img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
 
-- 🔭 I’m currently working on **VORTEX**
+↣ 🔭 I’m currently working on **VORTEX**
 
-- 🌱 I’m currently learning **Everything**
+↣ 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **Open Sources**
+↣ 👯 I’m looking to collaborate on **Open Sources**
 
-- 🤝 I’m looking for help with **New Website**
+↣ 🤝 I’m looking for help with **New Website**
 
-- 💬 Ask me about **Discord**
+↣ 💬 Ask me about **Discord**
 
-- 📫 How to reach me **Discord** `DOM#2807`
+↣ 📫 How to reach me **Discord** `DOM#2807`
 
-- ⚡ Fun fact **My life joke**
+↣ ⚡ Fun fact **My life joke**
 
 
 <h3 align="left">Languages and Tools:</h3>
