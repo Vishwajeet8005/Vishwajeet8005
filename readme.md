@@ -18,6 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://cdn.discordapp.com/attachments/899181942984048711/899183913233166376/Im_vishwajeet_2.png"/>
+<img src="https://cdn.discordapp.com/attachments/899181942984048711/899675960767578152/Im_vishwajeet_3.png"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeet8005&show_icons=true&locale=en&layout=tokyonight" alt="vishwajeet8005" /></p>
 
