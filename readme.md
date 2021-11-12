@@ -1,7 +1,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
 
-↣ 🔭 My Website [**Click Here**](https://vishwajeet.com)
+↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
 ↣ 🌱 I’m currently learning **Everything**
 
