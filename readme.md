@@ -11,9 +11,7 @@
 
 ↣ 💬 Ask me about **Discord**
 
-↣ 📫 How to reach me **Discord** `DOM#2807`
-
-↣ ⚡ Fun fact **My life joke**
+↣ ⚡ Fun fact **I don't have Girlfriend**
 
 
 <h3 align="left">Languages and Tools:</h3>
