@@ -18,4 +18,4 @@
 <img src="https://cdn.discordapp.com/attachments/899181942984048711/899183913233166376/Im_vishwajeet_2.png"/>
 
 <br>
-<div align="center"><b style="color: #03fce3;">Vishwajeet8005©</b></div>
+<div align="center"><b><p style="color: #03fce3;">Vishwajeet8005©</p></b></div>
