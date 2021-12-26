@@ -1,5 +1,6 @@
 
-<img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
+<img src="https://cdn.discordapp.com/attachments/846629298152013857/924539070447751168/WELCOME.png"/>
+/><img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
@@ -13,9 +14,6 @@
 
 ↣ ⚡ Fun fact **I don't have Girlfriend**
 
-
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://cdn.discordapp.com/attachments/899181942984048711/899183913233166376/Im_vishwajeet_2.png"/>
 
 <br>
 <div align="center"><b><p style="color: #03fce3;">Vishwajeet8005©</p></b></div>
