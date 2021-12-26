@@ -1,5 +1,4 @@
-
-<img src="https://cdn.discordapp.com/attachments/846629298152013857/924539070447751168/WELCOME.png">
+<img src="https://media.giphy.com/media/zVhuStywlEcuylbuxi/giphy.gif">
 <img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
@@ -10,7 +9,7 @@
 
 ↣ 🤝 I’m looking for help with **New Website**
 
-↣ 💬 Ask me about **Discord**
+↣ 💬 Ask me about **Any thing about Discord**
 
 ↣ ⚡ Fun fact **I don't have Girlfriend**
 
