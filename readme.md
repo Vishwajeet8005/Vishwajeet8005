@@ -15,7 +15,7 @@
 ↣ ⚡ Fun fact **I don't have Girlfriend**
 
 <br>
-  # Language & Tools:
+  <h2> Language & Tools:</h2>
 <img src="WELCOME (1).png"/>
 
 
