@@ -1,6 +1,6 @@
 
-<img src="https://cdn.discordapp.com/attachments/846629298152013857/924539070447751168/WELCOME.png"/>
-/><img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
+<img src="https://cdn.discordapp.com/attachments/846629298152013857/924539070447751168/WELCOME.png">
+<img src="https://cdn.discordapp.com/attachments/899181942984048711/899676988070039562/Im_vishwajeet_4.png"/>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
