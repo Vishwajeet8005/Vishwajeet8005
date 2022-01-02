@@ -26,7 +26,7 @@
 </details>
 
 [website]: https://vishwajeet.me
-[discord]: https://discord.gg/
+[discord]: https://discord.gg/8jDshxmC9a
 
 <br>
 <div align="center"><b><p style="color: #03fce3;">Vishwajeet8005©</p></b></div>
