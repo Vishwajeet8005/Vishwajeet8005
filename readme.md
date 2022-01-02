@@ -18,5 +18,15 @@
 <img src="WELCOME (1).png"/>
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="Vishwajeet8005's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vishwajeet8005&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
+
+[website]: https://vishwajeet.me
+[discord]: https://discord.gg/
+
 <br>
 <div align="center"><b><p style="color: #03fce3;">Vishwajeet8005©</p></b></div>
