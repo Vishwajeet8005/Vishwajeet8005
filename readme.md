@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/d5eb4600c22263b3583c2e61051e59f8ca368eed/standard%20(1).gif"/>
+<div aling="center"><img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/d5eb4600c22263b3583c2e61051e59f8ca368eed/standard%20(1).gif"/></div>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
@@ -15,8 +15,7 @@
 
 <br>
   <h2> Language & Tools:</h2>
-<img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/5c3e08b54cd920fe5282e9b8d95203ab126ce56f/standard.gif"/>
-
+<center><img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/5c3e08b54cd920fe5282e9b8d95203ab126ce56f/standard.gif"/></center>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
