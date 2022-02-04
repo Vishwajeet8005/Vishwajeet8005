@@ -1,5 +1,5 @@
 
-<img src="https://cdn.discordapp.com/attachments/847128824184569897/931908695288348682/Vishwajeet_1.png"/>
+<img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/d5eb4600c22263b3583c2e61051e59f8ca368eed/standard%20(1).gif"/>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
