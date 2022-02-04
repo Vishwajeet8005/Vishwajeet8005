@@ -15,7 +15,7 @@
 
 <br>
   <h2> Language & Tools:</h2>
-<img src="WELCOME (1).png"/>
+<img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/5c3e08b54cd920fe5282e9b8d95203ab126ce56f/standard.gif"/>
 
 
 <details>
