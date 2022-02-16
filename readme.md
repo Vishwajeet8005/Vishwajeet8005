@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/Vishwajeet8005/Vishwajeet8005/blob/d5eb4600c22263b3583c2e61051e59f8ca368eed/standard%20(1).gif"/></div>
+<div align="center"><img src="standard (2).gif"/></div>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
