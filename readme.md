@@ -1,5 +1,5 @@
 
-<div align="center"><img src="standard (2).gif"/></div>
+<div align="center"><img src="standard.gif"/></div>
 
 ↣ 🔭 My Website [**Click Here**](https://vishwajeet.me)
 
